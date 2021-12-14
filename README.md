@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kunal0220
 - 👀 I’m interested in open Source Contribution
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Organisations related to Web Development
 - 📫 How to reach me ...
 
 <!---
