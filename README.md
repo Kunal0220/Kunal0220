@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with **React backend**
 
-- 👨‍💻 All of my projects are available at [https://kunal0220.github.io/Portfolio/](https://kunal0220.github.io/Portfolio/)
-
 - 💬 Ask me about **MERN and ML**
 
 - 📫 How to reach me **ksrivastava0220@gmail.com**
